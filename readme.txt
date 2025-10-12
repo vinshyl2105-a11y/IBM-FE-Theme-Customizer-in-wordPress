@@ -28,7 +28,7 @@ User Accessibility: Making sure the theme is accessible to users with disabiliti
 
 🚀 How to Run the Theme
 1. Clone the Repository
-git clone https://github.com/Anis-88/ibm--theme-customizer.git
+git clone https://github.com/vinshyl2105-a11y/IBM-FE-Theme-Customizer-in-wordPress.git
 
 2. Install the Theme
 
