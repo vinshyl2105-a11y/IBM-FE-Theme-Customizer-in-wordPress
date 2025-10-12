@@ -1,91 +1,47 @@
-=== Twenty Twenty-Four ===
-Contributors: wordpressdotorg
-Requires at least: 6.4
-Tested up to: 6.8
-Requires PHP: 7.0
-Stable tag: 1.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+📝 Project Description
 
-== Description ==
+Theme Customizer is a WordPress theme designed to replicate the aesthetic and functionality of  design language. It allows users to easily modify various aspects of their website's appearance without delving into complex coding. This theme is particularly beneficial for developers and businesses aiming to maintain a consistent and professional look aligned with IBM's branding guidelines.
 
-Twenty Twenty-Four is designed to be flexible, versatile and applicable to any website. Its collection of templates and patterns tailor to different needs, such as presenting a business, blogging and writing or showcasing work. A multitude of possibilities open up with just a few adjustments to color and typography. Twenty Twenty-Four comes with style variations and full page designs to help speed up the site building process, is fully compatible with the site editor, and takes advantage of new design tools introduced in WordPress 6.4.
+⚙️ Features
 
-== Changelog ==
+Customizable Header: Modify the header's logo, typography, and background to match IBM's branding.
 
-= 1.3 =
-* Released: November 12, 2024
+Flexible Layouts: Choose between different page layouts to suit your content presentation needs.
 
-https://wordpress.org/documentation/article/twenty-twenty-four-changelog/#Version_1.3
+Typography Settings: Adjust font styles, sizes, and colors to align with IBM's design standards.
 
-= 1.2 =
-* Released: July 16, 2024
+Color Scheme Options: Select from predefined color palettes or create custom ones to maintain brand consistency.
 
-https://wordpress.org/documentation/article/twenty-twenty-four-changelog/#Version_1.2
+Responsive Design: Ensure your website looks great on all devices, from desktops to smartphones.
 
-= 1.1 =
-* Released: April 2, 2024
+Easy Customization: Utilize the WordPress Customizer for a user-friendly customization experience.
 
-https://wordpress.org/documentation/article/twenty-twenty-four-changelog/#Version_1.1
+🚧 Challenges Faced
 
-= 1.0 =
-* Released: November 7, 2023
+Ensuring Cross-Browser Compatibility: Achieving consistent appearance across different web browsers.
 
-https://wordpress.org/documentation/article/twenty-twenty-four-changelog/#Version_1.0
+Maintaining Responsiveness: Ensuring the theme adapts seamlessly to various screen sizes and devices.
 
-== Copyright ==
+Performance Optimization: Balancing design aesthetics with website loading speed.
 
-Twenty Twenty-Four WordPress Theme, (C) 2023-2025 WordPress.org and contributors.
-Twenty Twenty-Four is distributed under the terms of the GNU GPL.
+User Accessibility: Making sure the theme is accessible to users with disabilities, adhering to WCAG standards.
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or
-(at your option) any later version.
+🚀 How to Run the Theme
+1. Clone the Repository
+git clone https://github.com/Anis-88/ibm--theme-customizer.git
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+2. Install the Theme
 
+Log in to your WordPress admin dashboard.
 
-This theme bundles the following third-party resources:
+Navigate to Appearance > Themes > Add New.
 
-=== Fonts ===
+Click on Upload Theme, choose the ibm--theme-customizer.zip file, and click Install Now.
 
-Cardo Font
-Copyright (c) 2002-2011, David J. Perry (hospes02@scholarsfonts.net)
-License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
-Source: http://scholarsfonts.net
+After installation, click Activate to set the theme live.
 
-Instrument Sans Font
-Copyright 2022 The Instrument Sans Project Authors.
-License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
-Source: https://github.com/Instrument/instrument-sans
+3. Customize the Theme
 
-Inter Font
-Copyright 2020 The Inter Project Authors.
-License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
-Source: https://github.com/rsms/inter
+Go to Appearance > Customize.
 
-Jost Font
-Copyright 2020 The Jost Project Authors.
-License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
-Source: https://github.com/indestructible-type/Jost
-
-=== Images ===
-
-License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
-
-museum.webp - https://www.rawpixel.com/image/3297419/free-photo-image-interior-hallway-architecture
-tourist-and-building.webp - https://www.rawpixel.com/image/5928004/photo-image-public-domain-hand-person
-building-exterior.webp - https://www.rawpixel.com/image/430335/free-photo-image-architecture-building-roof
-windows.webp - https://www.rawpixel.com/image/3286615/free-photo-image-texture-architecture-building
-abstract-geometric-art.webp - https://www.rawpixel.com/image/3283970/free-photo-image-pattern-artwork-abstract
-angular-roof.webp - https://www.rawpixel.com/image/3289063/free-photo-image-architectural-detail-architecture
-art-gallery.webp - https://www.rawpixel.com/image/3286187/free-photo-image-person-stairs-architecture
-green-staircase.webp - https://www.rawpixel.com/image/430558/free-photo-image-abstract-architecture-art-public-domain
-hotel-facade.webp - https://www.rawpixel.com/image/3286725/free-photo-image-black-and-white-background-photos
-
-License: UNICODE LICENSE V3 https://www.unicode.org/license.txt
-icon-message.webp
+Modify settings such as colors, typography, and layout to match your preferences.
